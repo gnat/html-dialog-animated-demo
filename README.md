@@ -3,7 +3,7 @@
 Minimalist, `<dialog>` example, keeping it simple.
 
 ### References
-Adam Argyle from Google, extended Dialog Tutorial (2022)
+[Adam Argyle / argyleink](https://github.com/argyleink) from Google, extended Dialog Tutorial (2022)
 
 [![Adam Argyle's Dialog Tutorial](http://img.youtube.com/vi/GDzzIlRhEzM/0.jpg)](https://www.youtube.com/watch?v=GDzzIlRhEzM "Adam Argyle's Dialog Tutorial")
 * [MDN: dialog](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
