@@ -3,10 +3,11 @@
 Minimalist, `<dialog>` example, keeping it simple.
 
 ### References
-Adam Argyle's Dialog Tutorial (2022)
+Adam Argyle from Google, extended Dialog Tutorial (2022)
 
 [![Adam Argyle's Dialog Tutorial](http://img.youtube.com/vi/GDzzIlRhEzM/0.jpg)](https://www.youtube.com/watch?v=GDzzIlRhEzM "Adam Argyle's Dialog Tutorial")
-* [dialog](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog), [HTMLDialogElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLDialogElement)
+* [MDN: dialog](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
+* [MDN: HTMLDialogElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLDialogElement)
 * [Can I use dialog ?](https://caniuse.com/dialog)
 
 ### Source (demo.html)
